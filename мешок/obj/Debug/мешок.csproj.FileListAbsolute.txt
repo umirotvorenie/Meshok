@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\мешок\bin\Debug\мешок.exe.config
+C:\Users\user\source\repos\мешок\bin\Debug\мешок.exe
+C:\Users\user\source\repos\мешок\bin\Debug\мешок.pdb
+C:\Users\user\source\repos\мешок\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\source\repos\мешок\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\user\source\repos\мешок\bin\Debug\itextsharp.dll
+C:\Users\user\source\repos\мешок\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\user\source\repos\мешок\bin\Debug\itextsharp.xml
+C:\Users\user\source\repos\мешок\obj\Debug\мешок.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\мешок\obj\Debug\мешок.Form1.resources
+C:\Users\user\source\repos\мешок\obj\Debug\мешок.Properties.Resources.resources
+C:\Users\user\source\repos\мешок\obj\Debug\мешок.csproj.GenerateResource.cache
+C:\Users\user\source\repos\мешок\obj\Debug\мешок.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\мешок\obj\Debug\мешок.csproj.CopyComplete
+C:\Users\user\source\repos\мешок\obj\Debug\мешок.exe
+C:\Users\user\source\repos\мешок\obj\Debug\мешок.pdb
